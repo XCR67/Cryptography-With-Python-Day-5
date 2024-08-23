@@ -72,3 +72,4 @@
 #i.e., add a random string to the actual message
 
 #NOTE - A failed verification atempt always errors so comment it out when you dont want to deal with it
+#Thats it!
